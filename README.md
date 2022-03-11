@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taneya! (pronounced Tah-Knee-Yah). Welcome to my Github page!
 - 👀 I’m interested in Cloud Computing and DevOps.  
-- 🌱 I’m currently learning Python, Kubernetes, and several other cloud computing platforms (GCP, AWS). 
+- 🌱 I’m currently learning the ins and outs of GCP & AWS. I also enjoy programming, designing, and finding ways to make my processes faster. 
 - 💞️ I’m looking to use my Github to share my projects built as a Cloud Engineering Fellow, learn as much as I can, and collab with others on open source projects. 
 - 📫 How to reach me you can email me at taneyaboyde@gmail.com
 
