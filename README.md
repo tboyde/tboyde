@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Taneya! (pronounced Tah-Knee-Yah). Welcome to my Github page!
-- 👀 I’m interested in Cloud Computing and DevOps.  
-- 🌱 I’m currently learning the ins and outs of GCP & AWS. I also enjoy programming, designing, and finding ways to make my processes faster. 
-- 💞️ I’m looking to use my Github to share my projects built as a Cloud Engineering Fellow, learn as much as I can, and collab with others on open source projects. 
-- 📫 How to reach me you can email me at taneyaboyde@gmail.com
+👋 Hi, I'm Taneya (tah-knee-yah) — a Software Engineer with a background in marketing.
+
+I build full-stack web applications at Intuit and care deeply about the intersection of engineering and growth. Rare combo? I know.
+
+🛠️ TypeScript · JavaScript · Python · SQL · GraphQL · Kotlin · Java
+☁️ GCP · AWS · Databricks · Node.js · React · Next.js
+🎨 Former marketer. Current engineer. Always thinking about both.
+
+📫 taneyaboyde@gmail.com
 
 <!---
 tboyde/tboyde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
